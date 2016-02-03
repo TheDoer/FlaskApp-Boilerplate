@@ -26,7 +26,7 @@ I didn't really like the Flask starter projects I found searching the web. I rea
 - [ ] Automatic API views.
 - [ ] API key generator.
 
-If you have any suggestions or want to help, feel free to drop me a line at <maxhalford25@gmail.com> or to create an issue.
+If you have any suggestions or want to help, feel free to drop me a line at <adonis.rumbwere@gmail.com> or to create an issue.
 
 ## Libraries
 
