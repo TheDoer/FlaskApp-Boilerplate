@@ -19,7 +19,7 @@ I didn't really like the Flask starter projects I found searching the web. I rea
 - [ ] Websockets (for example for live chatting)
 - [x] Virtual environment example.
 - [ ] Heroku deployment example.
-- [x] Digital Ocean deployment example.
+- [x] Digital Ocean deployment example [Apache and Nginx Configurations]
 - [ ] Tests.
 - [ ] Logging.
 - [ ] Language selection.
